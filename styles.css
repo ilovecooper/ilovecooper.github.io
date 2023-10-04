@@ -34,9 +34,9 @@ body {
   height: 100%;
   text-align: center;
   font-family: verdana;
-  padding: 10px;
+  padding: 8px;
   color: #ffffff;
-  font-size: 5.5vh;
+  font-size: 6vh;
   user-select: none;
 
 }
@@ -52,8 +52,11 @@ td {
   font-family: verdana;
   color: #ffffff;
   user-select: none;
-  font-size: 3vw;
+  font-size: 4vh;
+
 }
+
+
 
 td:hover {
   background-color: #e38c00;
