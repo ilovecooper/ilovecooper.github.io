@@ -21,6 +21,9 @@ body {
   width: 10%;
   height: 100%;
   float: left;
+    margin-left: 1vw;
+    margin-right: 1vw;
+      transform: scaleX(-1);
 }
 
 #imgheader2 {
