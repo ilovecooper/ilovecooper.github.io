@@ -69,20 +69,21 @@ body {
 .aticles {
   width: 100%;
   height: 100%;
-  font-size: 4vh;
+
 
   ;
 }
 
 .aticlestab {
   width: 100%;
-  height: 100%;
+  height: auto%;
   border-spacing: 3vh;
 }
 
 .aticleh {
   color: #ebe8e1;
   margin: 2vh;
+    font-size: 6vh;
 
 
 }
@@ -100,7 +101,7 @@ body {
 .aticlestab td {
   border: 1.3vh solid #857c7b;
   width: 33%;
-  height: 100%;
+  height: auto;
   border-radius: 2vh;
     vertical-align: top;
 
@@ -110,7 +111,7 @@ body {
 
 .aticlestab tr {
   width: 100%;
-  height: 50vh;
+  height: auto;
     cursor: pointer;
 
 }
