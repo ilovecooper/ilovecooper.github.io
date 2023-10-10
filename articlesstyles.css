@@ -117,6 +117,8 @@ body {
 
 .ht td:hover {
   background-color: grey;
+  cursor: pointer;
+  
 }
 
 .aticlestab td:hover {
