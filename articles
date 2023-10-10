@@ -1,0 +1,78 @@
+<html>
+
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" href="articlesstyles.css">
+  </head>
+
+  <body>
+    <div class="header">
+
+
+<div id="filler">
+      <h1 id="titleheader">cms <span style="color: #242629">tube</span><span style="color:#fc9d03">ee</span></h1>
+</div>
+      <img class="imghead" src="https://ilovecooper.github.io/images
+/orangetrap.png">
+<h1 style="float:right">
+ not finsihed1!!11!<br>
+ none of ya works
+</h1>
+      <table class="ht">
+        <tb>
+          <tr>
+            <td>
+              ya
+            </td>
+            <td>
+              ya
+            </td>
+            <td>
+            ya
+            </td>
+          </tr>
+        </tb>
+
+      </table>
+
+
+    </div>
+
+<div class="aticles">
+<div>
+<table class="aticlestab">
+<tb>
+  <tr>
+    <td onClick="redirect1()">
+      <h1 class="aticleh">
+      Navigating the Complex World of Romance
+      </h1>
+         <h1 class="aticleby">
+      by idk
+      </h1>
+    </td>
+    <td>
+         <h1 class="aticleh">
+      ya
+      </h1>
+    </td>
+    <td>
+         <h1 class="aticleh">
+      ya
+      </h1>
+    </td>
+  </tr>
+  
+</tb>
+</table>
+</div>
+
+</div>
+
+  </body>
+<script>
+function redirect1() {
+location.replace("https://google.com")
+}
+</script>
+</html>
