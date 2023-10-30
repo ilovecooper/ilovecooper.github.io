@@ -62,30 +62,30 @@ transition: background-color 200ms linear;
 
 .lr {
   width: 100%;
-  height: 60vh;
-  background: green;
+  height: auto;
 }
 
 .left {
 width: 50%;
-background: blue;
 float: left;
-height: 100%;
+height: auto;
+padding: 6vh 3vw 0;
+box-sizing: border-box;
 }
 
 .right {
 width: 50%;
-background: white;
 margin-left: 50%;
-height: 100%;
+height: auto;
+padding: 6vh 3vw 0;
+box-sizing: border-box;
 }
 
 .body2 {
   height: 50vh;
-  width: 100%; 
+  width: 100%;
   padding: 3vw;
   box-sizing: border-box;
-  
 }
 
 .title {
@@ -94,6 +94,7 @@ height: 100%;
   font-family: verdana;
   font-size: 10vh;
   color: #ffffff;
+  margin: 0;
 }
 
 .text {
@@ -102,4 +103,21 @@ height: 100%;
   font-size: 4vh;
   font-family: Arial;
 color: #ffffff;
+
 }
+
+.imgleft {
+  width: 100%;
+  height: auto;
+}
+
+.introvid {
+  width: 100%;
+  height: auto; 
+}
+
+.videodiv {
+  width: 100%;
+  height: 100%;
+  padding-top: 5vh;
+  }
