@@ -24,6 +24,7 @@ margin-right: 4vw;
 padding-top: 3.1vh;
 color: #cccccc;
 user-select: none;
+
 }
 
 .headertext:hover {
@@ -33,7 +34,7 @@ transition: color 200ms linear;
 }
 
 .headernav {
-  width: 50%;
+  width: 40%;
   height: 100%;
   float: right;
   font-size: 4.2vh;
@@ -41,12 +42,12 @@ transition: color 200ms linear;
 }
 
 .headernav th {
-  width: 12.5%;
+  width: 40%;
 padding: 1.2vw;
   user-select: none;
 
   color: #cccccc;
-    border-collapse: collapse;
+    border-collapse: collapse; 
 }
 
 .headernav th:hover{
